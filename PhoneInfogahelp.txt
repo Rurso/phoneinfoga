@@ -1,0 +1,9 @@
+Google Cloud Console: https://console.cloud.google.com/
+
+Github				: https://github.com/sundowndev/PhoneInfoga
+
+
+In Console:
+			docker pull sundowndev/phoneinfoga:latest
+
+			docker run -it sundowndev/phoneinfoga scan -n (NUMMER)
